@@ -12,6 +12,8 @@ Stock performance of 2017 and 2018 Executed from the Refactored Script versus th
 
 !VBA_Challenge_2017(https://github.com/Lora-Borja/stock-analysis/blob/main/Resources/VBA_Challenge_2017.PNG)
 
+!VBA_Challenge_2018(https://github.com/Lora-Borja/stock-analysis/blob/main/Resources/VBA_Challenge_2018.PNG)
+
 * The runtime on both year's analysis took 0.8 seconds when executed using the original script
 * The codes on the original script is longer and more detailed going through a step by step process
 
