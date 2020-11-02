@@ -13,6 +13,7 @@ Stock performance of 2017 and 2018 Executed from the Refactored Script versus th
 
 * The runtime on both year's analysis took 0.8 seconds when executed using the original script
 * The codes on the original script is longer and more detailed going through a step by step process
+
 !Original_2017-2018_Runtime(https://github.com/Lora-Borja/stock-analysis/commit/578b14bcc7744db5c53f62a799d1040112fc9cc0)
 
 ---
